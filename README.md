@@ -16,6 +16,6 @@
 ```
  pip install pyinstaller
 ``` 
-4. `.exe`を作成する方法
+3. `.exe`を作成する方法
 - `pyinstaller move_recent_files.spec`を実行
-5. `dist/move_recent_files.exe` が作成される
+4. `dist/move_recent_files.exe` が作成される

@@ -18,4 +18,4 @@
 ``` 
 4. `.exe`を作成する方法
 - `pyinstaller move_recent_files.spec`を実行
-6. `dist/move_recent_files.exe` が作成される
+5. `dist/move_recent_files.exe` が作成される
